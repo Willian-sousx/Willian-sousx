@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Willian ou (Taikku) 👋
 
-<!--
-**Willian-sousx/Willian-sousx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focado em me tornar um **Desenvolvedor Back-end especializado em JavaScript**. Atualmente dominando a lógica de programação para construir bases sólidas e sistemas eficientes.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim:
+- 🎓 Estudante de programação focado em Back-end.
+- 💻 Atualmente estudando: **JavaScript (ES6+) e Lógica**.
+- 🎯 Meta: Migrar para **TypeScript** e dominar **Node.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias em estudo:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+*“A consistência é o que transforma o aprendizado em maestria.”*
